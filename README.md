@@ -13,6 +13,10 @@
 
 ## Packages
 
+### HTTP
+
+* [go-chi/chi](https://github.com/go-chi/chi) - Router compatible with net/http
+
 ### Databases
 
 * [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
