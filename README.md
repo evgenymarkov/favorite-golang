@@ -5,6 +5,7 @@
 
 - [Tools](#tools)
   - [Editors](#editors)
+  - [Network](#network)
 
 - [Resources](#resources)
   - [Media](#media)
@@ -21,6 +22,10 @@
 ### Editors
 
 * [Goland](https://www.jetbrains.com/go) - Awesome IDE that contains everything you need for development
+
+### Network
+
+* [GoReplay](https://github.com/buger/goreplay) - Network monitoring tool which can record your live traffic, and use it for shadowing, load testing, monitoring and analysis
 
 ## Resources
 
