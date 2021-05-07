@@ -20,7 +20,7 @@
 
 ### Editors
 
-* [Goland](https://www.jetbrains.com/go)
+* [Goland](https://www.jetbrains.com/go) - Awesome IDE that contains everything you need for development
 
 ## Resources
 
