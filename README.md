@@ -1,6 +1,7 @@
 # Favorite Go
 
 - [Packages](#packages)
+  - [HTTP](#http)
   - [Databases](#databases)
 
 - [Tools](#tools)
@@ -25,19 +26,22 @@
 
 ### Editors
 
-* [Goland](https://www.jetbrains.com/go) - Awesome IDE that contains everything you need for development
+* [Goland](https://www.jetbrains.com/go) - Awesome IDE that contains everything you need
+  for development
 
 ### Network
 
-* [GoReplay](https://github.com/buger/goreplay) - Network monitoring tool which can record your live traffic, and use it for shadowing, load testing, monitoring and analysis
+* [GoReplay](https://github.com/buger/goreplay) - Network monitoring tool which can
+  record your live traffic, and use it for shadowing, load testing, monitoring and
+  analysis
 
 ## Resources
 
 ### Media
 
- * [Reddit r/golang](https://www.reddit.com/r/golang)
- * [Twitter @golang](https://twitter.com/golang)
- * [Telegram @golang](https://t.me/golang)
+* [Reddit r/golang](https://www.reddit.com/r/golang)
+* [Twitter @golang](https://twitter.com/golang)
+* [Telegram @golang](https://t.me/golang)
 
 ### Tutorials
 
