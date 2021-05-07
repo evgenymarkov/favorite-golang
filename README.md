@@ -20,7 +20,7 @@
 
 ### Databases
 
-* [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
+* [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit
 
 ## Tools
 
