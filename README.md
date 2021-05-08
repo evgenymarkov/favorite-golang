@@ -2,6 +2,7 @@
 
 - [Packages](#packages)
   - [HTTP](#http)
+  - [Logging](#logging)
   - [Testing](#testing)
   - [Databases](#databases)
 
@@ -20,9 +21,14 @@
 
 * [go-chi/chi](https://github.com/go-chi/chi) - Router compatible with net/http
 
+### Logging
+
+* [uber-go/zap](https://github.com/uber-go/zap) - Structured and leveled logger
+
 ### Testing
 
-* [stretchr/testify](https://github.com/stretchr/testify) - Toolkit for assertions and mocking
+* [stretchr/testify](https://github.com/stretchr/testify) - Toolkit for assertions and
+  mocking
 
 ### Databases
 
