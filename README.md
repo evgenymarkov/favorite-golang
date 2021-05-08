@@ -2,6 +2,7 @@
 
 - [Packages](#packages)
   - [HTTP](#http)
+  - [Testing](#testing)
   - [Databases](#databases)
 
 - [Tools](#tools)
@@ -18,6 +19,10 @@
 ### HTTP
 
 * [go-chi/chi](https://github.com/go-chi/chi) - Router compatible with net/http
+
+### Testing
+
+* [stretchr/testify](https://github.com/stretchr/testify) - Toolkit for assertions and mocking
 
 ### Databases
 
