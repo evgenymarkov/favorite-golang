@@ -43,6 +43,7 @@
 * [Reddit r/golang](https://www.reddit.com/r/golang)
 * [Twitter @golang](https://twitter.com/golang)
 * [Telegram @golang](https://t.me/golang)
+* [Telegram @goleningrad](https://t.me/goleningrad)
 
 ### Tutorials
 
