@@ -9,6 +9,7 @@
 - [Tools](#tools)
   - [Editors](#editors)
   - [Network](#network)
+  - [Debugging](#debugging)
 
 - [Resources](#resources)
   - [Media](#media)
@@ -46,6 +47,10 @@
 * [GoReplay](https://github.com/buger/goreplay) - Network monitoring tool which can
   record your live traffic, and use it for shadowing, load testing, monitoring and
   analysis
+
+### Debugging
+
+* [Delve](https://github.com/go-delve/delve) - Simple, full featured debugging tool
 
 ## Resources
 
