@@ -5,6 +5,7 @@
   - [Logging](#logging)
   - [Testing](#testing)
   - [Databases](#databases)
+  - [Background tasks](#background-tasks)
 
 - [Tools](#tools)
   - [Editors](#editors)
@@ -34,6 +35,11 @@
 ### Databases
 
 * [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit
+
+### Background tasks
+
+* [go-co-op/gocron](https://github.com/go-co-op/gocron) - Job scheduling package which
+  lets you run functions periodically
 
 ## Tools
 
