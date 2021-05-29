@@ -35,6 +35,7 @@
 ### Databases
 
 * [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit
+* [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and executor
 
 ### Background tasks
 
