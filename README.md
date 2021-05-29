@@ -21,27 +21,27 @@
 
 ### HTTP
 
-* [go-chi/chi](https://github.com/go-chi/chi) - Router compatible with net/http
+* [chi](https://github.com/go-chi/chi) - Router compatible with net/http
 
 ### Logging
 
-* [uber-go/zap](https://github.com/uber-go/zap) - Structured and leveled logger
+* [zap](https://github.com/uber-go/zap) - Structured and leveled logger
 
 ### Testing
 
-* [stretchr/testify](https://github.com/stretchr/testify) - Toolkit for assertions and
-  mocking
+* [testify](https://github.com/stretchr/testify) - Toolkit for assertions and mocking
 
 ### Databases
 
-* [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit
-* [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and executor
-* [yandex/hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL database installations
+* [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit
+* [goqu](https://github.com/doug-martin/goqu) - SQL builder and executor
+* [hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL
+  database installations
 
 ### Background tasks
 
-* [go-co-op/gocron](https://github.com/go-co-op/gocron) - Job scheduling package which
-  lets you run functions periodically
+* [gocron](https://github.com/go-co-op/gocron) - Job scheduling package which lets you
+  run functions periodically
 
 ## Tools
 
