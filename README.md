@@ -37,6 +37,7 @@
 * [goqu](https://github.com/doug-martin/goqu) - SQL builder and executor
 * [hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL
   database installations
+* [redis](https://github.com/go-redis/redis) - Type-safe Redis client
 
 ### Background tasks
 
