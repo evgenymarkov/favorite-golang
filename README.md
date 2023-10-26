@@ -49,8 +49,8 @@
 
 ### Editors
 
-* [Goland](https://www.jetbrains.com/go) - Awesome IDE that contains everything you need
-  for development
+* [Goland](https://www.jetbrains.com/go) - IDE that contains everything you need for Go development
+* [VSCode Go](https://github.com/golang/vscode-go) - Extension for VSCode that providers support for Go
 
 ### Network
 
