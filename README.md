@@ -37,7 +37,6 @@
 * [redis](https://github.com/go-redis/redis) - Redis client
 * [pgx](https://github.com/jackc/pgx) - PostgreSQL driver
 * [clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - ClickHouse driver
-* [goqu](https://github.com/doug-martin/goqu) - SQL builder and executor
 * [hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL
   database installations
 
