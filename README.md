@@ -25,7 +25,7 @@
 
 ### Logging
 
-* [zap](https://github.com/uber-go/zap) - Structured and leveled logger
+* [slog](https://pkg.go.dev/log/slog) - Structured and leveled logging
 
 ### Testing
 
