@@ -1,4 +1,4 @@
-# Favorite Go
+# Favorite Golang
 
 - [Packages](#packages)
   - [HTTP](#http)
