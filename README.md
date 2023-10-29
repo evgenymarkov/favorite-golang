@@ -8,6 +8,7 @@
   - [Background tasks](#background-tasks)
 
 - [Tools](#tools)
+  - [Linters](#linters)
   - [Editors](#editors)
   - [Network](#network)
   - [Debugging](#debugging)
@@ -46,6 +47,10 @@
   run functions periodically
 
 ## Tools
+
+### Linters
+
+* [errcheck](https://github.com/kisielk/errcheck) - Linter for checking for unchecked errors
 
 ### Editors
 
