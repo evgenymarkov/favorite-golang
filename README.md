@@ -51,7 +51,6 @@
 
 ### Linters
 
-* [errcheck](https://github.com/kisielk/errcheck) - Linter for checking for unchecked errors
 * [golangci-lint](https://github.com/golangci/golangci-lint) - Go linters runner that includes a lot of linters
 
 ### Editors
