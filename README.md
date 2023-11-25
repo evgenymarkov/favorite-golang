@@ -16,7 +16,7 @@
 - [Resources](#resources)
   - [Media](#media)
   - [Tutorials](#tutorials)
-  - [Stack Overflow](#stack-overflow)
+  - [Useful notes](#useful-notes)
 
 ## Packages
 
@@ -86,6 +86,7 @@
 * [A Tour of Go](https://tour.golang.org)
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
 
-### Stack Overflow
+### Useful notes
 
+* [Constant errors](https://dave.cheney.net/2016/04/07/constant-errors)
 * [Proper package naming for testing](https://stackoverflow.com/questions/19998250/proper-package-naming-for-testing-with-the-go-language)
