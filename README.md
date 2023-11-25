@@ -91,4 +91,5 @@
 * [Printing cheatsheet](https://pkg.go.dev/fmt#hdr-Printing)
 * [Constant errors](https://dave.cheney.net/2016/04/07/constant-errors)
 * [Mutex or channels?](https://github.com/golang/go/wiki/MutexOrChannel)
+* [Maps are not reference variables](https://dave.cheney.net/2017/04/30/if-a-map-isnt-a-reference-variable-what-is-it)
 * [Proper package naming for testing](https://stackoverflow.com/questions/19998250/proper-package-naming-for-testing-with-the-go-language)
