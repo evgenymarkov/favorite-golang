@@ -89,4 +89,5 @@
 ### Useful notes
 
 * [Constant errors](https://dave.cheney.net/2016/04/07/constant-errors)
+* [Mutex or channels?](https://github.com/golang/go/wiki/MutexOrChannel)
 * [Proper package naming for testing](https://stackoverflow.com/questions/19998250/proper-package-naming-for-testing-with-the-go-language)
