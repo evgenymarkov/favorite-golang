@@ -40,8 +40,8 @@
 * [pgx](https://github.com/jackc/pgx) - PostgreSQL driver
 * [clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - ClickHouse driver
 * [ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - YDB driver
-* [hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL
-  database installations
+* [goose](https://github.com/pressly/goose) - A database migration tool
+* [hasql](https://github.com/yandex/go-hasql) - Library for accessing multi-host SQL database installations
 
 ### Background tasks
 
