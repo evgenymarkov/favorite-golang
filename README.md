@@ -4,6 +4,7 @@
   - [HTTP](#http)
   - [Logging](#logging)
   - [Testing](#testing)
+  - [Utilities](#utilities)
   - [Databases](#databases)
   - [Background tasks](#background-tasks)
 
@@ -33,6 +34,12 @@
 
 * [testify](https://github.com/stretchr/testify) - Toolkit for assertions and mocking
 * [httptest](https://pkg.go.dev/net/http/httptest) - Utilities for testing HTTP requests
+
+### Utilities
+
+* [do](https://github.com/samber/do) - Dependency injection toolkit
+* [lo](https://github.com/samber/lo) - Lodash-style library (map, filter, contains, find...)
+* [mo](https://github.com/samber/mo) - Monads and popular FP abstractions (Option, Result...)
 
 ### Databases
 
