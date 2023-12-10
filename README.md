@@ -97,10 +97,10 @@
 
 ### Useful notes
 
-* [Printing cheatsheet](https://pkg.go.dev/fmt#hdr-Printing)
 * [Constant errors](https://dave.cheney.net/2016/04/07/constant-errors)
 * [Go _test packages](https://jdkaplan.dev/thinkin-logs/2021-10-07)
 * [Mutex or channels?](https://github.com/golang/go/wiki/MutexOrChannel)
+* [Printing cheatsheet](https://pkg.go.dev/fmt#hdr-Printing)
 * [Formatting and parsing time](https://programming.guide/go/format-parse-string-time-date-example.html)
 * [Maps are not reference variables](https://dave.cheney.net/2017/04/30/if-a-map-isnt-a-reference-variable-what-is-it)
 * [Proper package naming for testing](https://stackoverflow.com/questions/19998250/proper-package-naming-for-testing-with-the-go-language)
