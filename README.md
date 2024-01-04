@@ -53,8 +53,8 @@
 
 ### Background tasks
 
-* [gocron](https://github.com/go-co-op/gocron) - Job scheduling package which lets you
-  run functions periodically
+* [pond](https://github.com/alitto/pond) - Minimalistic goroutine worker pool
+* [gocron](https://github.com/go-co-op/gocron) - Job scheduling package which lets you run functions periodically
 
 ## Tools
 
