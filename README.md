@@ -33,6 +33,7 @@
 ### Testing
 
 * [testify](https://github.com/stretchr/testify) - Toolkit for assertions and mocking
+* [fstest](https://golang.org/pkg/testing/fstest) - FS and File implementations designed for tests
 * [httptest](https://pkg.go.dev/net/http/httptest) - Utilities for testing HTTP requests
 
 ### Utilities
