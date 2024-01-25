@@ -46,6 +46,7 @@
 * [do](https://github.com/samber/do) - Dependency injection toolkit
 * [lo](https://github.com/samber/lo) - Lodash-style library (map, filter, contains, find...)
 * [mo](https://github.com/samber/mo) - Monads and popular FP abstractions (Option, Result...)
+* [backoff](https://github.com/cenkalti/backoff) - Exponential backoff algorithm
 
 ### Databases
 
