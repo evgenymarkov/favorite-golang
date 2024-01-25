@@ -2,6 +2,7 @@
 
 - [Packages](#packages)
   - [HTTP](#http)
+  - [Cache](#cache)
   - [Logging](#logging)
   - [Testing](#testing)
   - [Utilities](#utilities)
@@ -25,6 +26,10 @@
 ### HTTP
 
 * [chi](https://github.com/go-chi/chi) - Router compatible with net/http
+
+### Cache
+
+* [otter](https://github.com/maypok86/otter) - High performance lockless cache
 
 ### Logging
 
