@@ -76,9 +76,7 @@
 
 ### Network
 
-* [GoReplay](https://github.com/buger/goreplay) - Network monitoring tool which can
-  record your live traffic, and use it for shadowing, load testing, monitoring and
-  analysis
+* [GoReplay](https://github.com/buger/goreplay) - Network monitoring/recording/analysis/replaying tool
 
 ### Debugging
 
@@ -87,7 +85,7 @@
 ### Development
 
 * [gopls](https://github.com/golang/tools/blob/master/gopls) - Official Go language server
-* [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) - Tool that updates import lines, adding missing ones and removing unreferenced ones
+* [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) - Tool that updates imports
 
 ## Resources
 
