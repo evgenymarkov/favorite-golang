@@ -26,6 +26,7 @@
 ### HTTP
 
 * [chi](https://github.com/go-chi/chi) - Router compatible with net/http
+* [huma](https://github.com/danielgtaylor/huma) - Micro framework for building HTTP REST/RPC APIs with OpenAPI schema
 
 ### Cache
 
